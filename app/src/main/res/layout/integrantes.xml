@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/eduardoSantos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Eduardo Santos"
+        android:textSize="16sp"
+
+        />
+
+    <TextView
+        android:id="@+id/rmDoIntegrante"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RM96042"
+
+    />
+
+    <TextView
+        android:id="@+id/marianaMayumi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mariana Mayumi"
+        android:textSize="16sp"
+
+        />
+
+    <TextView
+        android:id="@+id/rmDoIntegrante2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RM95533"
+
+        />
+
+
+
+
+</LinearLayout>
